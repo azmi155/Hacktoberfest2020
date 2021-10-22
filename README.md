@@ -4,5 +4,5 @@
 
 | NAME | GITHUB LINK |
 | ----- | ----------- |
-|ULUL AZMI | [Cyndi](https://github.com/azmi155) |
+|ULUL AZMI | [GITHUB](https://github.com/azmi155) |
 
